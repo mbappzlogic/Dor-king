@@ -9,12 +9,17 @@ This is a bash script that automates the process of searching for vulnerabilitie
 To install and run the script, you'll need to do the following:
 
 1.Clone the GitHub repository to your local machine.
+
 2.Make sure that you have the following dependencies installed:
 
 ### Usage
 
 To use the script, run the following command:
-./dork.sh
+
+``` 
+<sudo chmod +x dork-king.sh
+./dork-king.sh>
+```
 
 The script will prompt you for the type of search you want to perform (Google or GitHub) and target URL. Once you enter this information, the script will automate the process of using the specified dork query.
 
