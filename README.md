@@ -17,8 +17,8 @@ To install and run the script, you'll need to do the following:
 To use the script, run the following command:
 
 ``` 
-<sudo chmod +x dork-king.sh
-./dork-king.sh>
+sudo chmod +x dork-king.sh
+./dork-king.sh
 ```
 
 The script will prompt you for the type of search you want to perform (Google or GitHub) and target URL. Once you enter this information, the script will automate the process of using the specified dork query.
