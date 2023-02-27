@@ -1,0 +1,22 @@
+filename:.env DB_PASSWORD
+filename:wp-config.php DB_PASSWORD
+filename:.htpasswd
+filename:.gitconfig
+filename:shadow
+filename:authorized_keys
+aws_secret_key
+filename:credentials.json
+filename:config.yml
+filename:config.json
+FTP_PASSWORD=
+DB_PASSWORD=
+DB_PW=
+DB_USER=
+api_key=
+client_secret=
+ssh username=
+credentials 
+aws_access_key
+github_token
+extension:log password|username
+authorization_bearer:
