@@ -10,7 +10,6 @@ To install and run the script, you'll need to do the following:
 
 1.Clone the GitHub repository to your local machine.
 
-2.Make sure that you have the following dependencies installed:
 
 ### Usage
 
