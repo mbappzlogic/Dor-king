@@ -13,6 +13,7 @@ To install and run the script, you'll need to do the following:
 ``` 
 git clone https://github.com/mbappzlogic/Dor-king.git
 ``` 
+[![Installation](https://img.youtube.com/vi/I9zaLqy5d1U/0.jpg)](https://www.youtube.com/watch?v=I9zaLqy5d1U)
 
 ### Usage
 
@@ -26,6 +27,7 @@ sudo chmod +x dork-king.sh
 The script will prompt you for the type of search you want to perform (Google or GitHub) and target URL. Once you enter this information, the script will automate the process of using the specified dork query.
 
 ### Usage Video 
+
 
 
 ## Contributing
