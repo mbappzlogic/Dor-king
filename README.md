@@ -12,10 +12,9 @@ To install and run the script, you'll need to do the following:
 
 ``` 
 git clone https://github.com/mbappzlogic/Dor-king.git
-
 ``` 
+[![Installation](https://img.youtube.com/vi/RuNPPbet6w8/0.jpg)](https://www.youtube.com/watch?v=RuNPPbet6w8)
 
-https://youtu.be/RuNPPbet6w8
 
 
 ### Usage
