@@ -8,7 +8,14 @@ This is a bash script that automates the process of searching for vulnerabilitie
 
 To install and run the script, you'll need to do the following:
 
-1.Clone the GitHub repository to your local machine.
+1. Clone the GitHub repository to your local machine. 
+
+``` 
+git clone https://github.com/mbappzlogic/Dor-king.git
+
+``` 
+
+https://youtu.be/RuNPPbet6w8
 
 
 ### Usage
