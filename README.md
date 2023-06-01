@@ -28,7 +28,7 @@ The script will prompt you for the type of search you want to perform (Google or
 
 ### Usage Video 
 
-###Github Dorking
+### Github Dorking
 [![Github Dorking](https://img.youtube.com/vi/LtCJcj4_Frc/0.jpg)](https://www.youtube.com/watch?v=LtCJcj4_Frc)
 
 
